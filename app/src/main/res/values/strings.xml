@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MidTermExam</string>
+    <string name="plus">+</string>
+    <string name="clear">CLEAR</string>
+    <string name="add">add</string>
+    <string name="minus">-</string>
+    <string name="starting">0.00</string>
+</resources>
